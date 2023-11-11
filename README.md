@@ -12,14 +12,7 @@
 - I'm a wannabe dev that is too lazy and is still learning the basic
 - I love to help people with some Fivem Development basic issues and do some simple scripts
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<p align="center">
-- **Back-End Development**:
-    ![LUA](https://img.shields.io/badge/LUA%20-%23000079.svg?style=for-the-badge&logo=lua%2B%2B&logoColor=white)
-<br>   
+<br><br> 
 
 -----
 
@@ -35,7 +28,7 @@
 -----
 <br>
 <br>
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Contact..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 <ul>
