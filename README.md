@@ -20,9 +20,7 @@
 - **Back-End Development**:
     ![LUA](https://img.shields.io/badge/LUA%20-%23000079.svg?style=for-the-badge&logo=lua%2B%2B&logoColor=white)
 <br>   
-</p>
-<br>
-<br>
+
 -----
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
